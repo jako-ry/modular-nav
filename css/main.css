@@ -22,3 +22,31 @@ html {
 body {
   margin: 0;
 }
+
+header {
+  background-color: #e2e2e2;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  text-align: left;
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  color: #0074d9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #0074d9;
+}
